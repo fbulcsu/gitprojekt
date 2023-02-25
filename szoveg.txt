@@ -1,2 +1,5 @@
 
 elso sor.
+
+ git config --global user.email "you@example.com"
+  git config --global user.n	ame "Your Name"
