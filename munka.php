@@ -10,8 +10,8 @@
 $a = 12;
 $b = 17;
 $c = 12;
-$d = 200;
-print $a + $b + $c;
+$d = 220;
+print $a + $b + $c + $d;
 
 //kivonas
 
