@@ -21,4 +21,10 @@ $z = 10;
 print "<br /><br />" . $z - $x - $y;
 
 
+
+
+// szorzas 
+$kicsi = 2;
+$nagy = 11;
+print $kicsi * $nagy;
 ?>
