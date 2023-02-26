@@ -18,4 +18,10 @@ $x = 36;
 $y = 47;
 print "<br /><br />" . $x - $y;
 
+
+
+// szorzas 
+$kicsi = 2;
+$nagy = 11;
+print $kicsi * $nagy;
 ?>
