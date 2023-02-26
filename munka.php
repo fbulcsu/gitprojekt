@@ -18,4 +18,11 @@ $x = 36;
 $y = 47;
 print "<br /><br />" . $x - $y;
 
+
+// osztas 
+$egyik = 23;
+$masik = 222; 
+
+
+print $egyik/ $masik; 
 ?>
