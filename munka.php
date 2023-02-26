@@ -16,6 +16,9 @@ print $a + $b + $c;
 //kivonas
 $x = 36;
 $y = 47;
+$z = 10;
+
 print "<br /><br />" . $x - $y;
+
 
 ?>
