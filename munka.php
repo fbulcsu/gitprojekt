@@ -14,11 +14,11 @@ $c = 12;
 print $a + $b + $c;
 
 //kivonas
-$x = 36;
+$x = 46;
 $y = 47;
 $z = 10;
 
-print "<br /><br />" . $x - $y;
+print "<br /><br />" . $z - $x - $y;
 
 
 ?>
