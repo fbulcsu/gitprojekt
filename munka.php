@@ -12,7 +12,7 @@ $b = 17;
 $c = 12;
 $d = 210;
 print $a + $b + $c + $d;
-
+print $d + $b
 //kivonas
 $x = 46;
 $y = 37;
