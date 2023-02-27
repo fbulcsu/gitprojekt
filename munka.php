@@ -27,4 +27,9 @@ print "<br /><br />" . $z - $x - $y;
 $kicsi = 2;
 $nagy = 11;
 print $kicsi * $nagy;
+
+
+//itt a vege
+
+// sajat gep
 ?>
